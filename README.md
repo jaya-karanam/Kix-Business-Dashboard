@@ -19,5 +19,9 @@ Quarterly Revenue Analysis -> Shows revenue generated per quarter against the av
 
 Weekday/Weekend Revenue Analysis -> Gives a comparison of revenue generated on weekdays versus weekends, which can help in making staffing and operational decisions.
 
-Monthly Revenue vs Target -> Tracks monthly performance against goals, which is fundamental for short-term financial planning and adjustments.
-<img width="500" height="350" alt="Profile_view"  src="Profile_view" />
+Monthly Revenue vs Target -> Tracks monthly performance against goals, which is fundamental for short-term financial planning and adjustments.<br/>
+<br/><br/>
+<img width=300 height=250  alt="Profile_view"  src="Store_DB.png" />
+<img width=300 height=250  alt="Profile_view"  src="Profile_view.png" />
+<img width=300 height=250  alt="Profile_view"  src="TimeFrame_DB.png" />
+
